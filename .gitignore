@@ -1,0 +1,37 @@
+# Visual Studio 缓存
+.vs/
+
+# 编译输出目录
+x64/
+bin/
+
+# 编译产物
+*.exe
+*.dll
+*.pdb
+*.obj
+*.lib
+*.exp
+*.ipch
+*.iobj
+*.ipdb
+*.ilk
+*.recipe
+*.enc
+
+# 编译日志
+*.tlog/
+*.log
+
+# 用户配置
+*.user
+*.suo
+*.vsidx
+*.vc.db
+*.vc.db-shm
+*.vc.db-wal
+.futdcache.v2
+
+# 文档布局
+DocumentLayout.json
+DocumentLayout.backup.json

@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Image2BinExe/Image2BinExe.vcxproj" Id="638da5bd-9c51-40da-bdbf-e77843beb8a2" />
+  <Project Path="Image2BinLib/Image2BinLib.vcxproj" Id="fdbb8529-8085-4b1e-9b58-1edb8d26c9b2" />
+</Solution>

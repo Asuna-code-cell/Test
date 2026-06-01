@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="test-caozuofu.vcxproj" Id="2dba69ce-3fe3-4ca8-b7f4-c58fccf461bf" />
+</Solution>
